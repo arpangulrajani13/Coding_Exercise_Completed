@@ -1,0 +1,1 @@
+source count_word_mapreduce/bin/activate
